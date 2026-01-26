@@ -1,16 +1,18 @@
-## Hi there 👋
+## 👋 Hi, I'm a Cyber Security Student
 
-<!--
-**etsubgezhagne-tech/etsubgezhagne-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I am learning Cyber Security with a focus on:
+- Web Security
+- Blue Team (Defensive Security)
+- Linux & Networking
 
-Here are some ideas to get you started:
+🛠 Skills:
+- Linux basics
+- Networking fundamentals
+- OWASP Top 10
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 Goal:
+- Cyber Security competitions
+- Internship / Junior role
+
+📌 This GitHub contains my learning notes and projects.
