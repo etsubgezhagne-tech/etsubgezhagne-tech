@@ -1,4 +1,4 @@
-# ⚡ Terminal.Initialize(User: "Your Name")
+# ⚡ Terminal.Initialize(User: "vex")
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/render?type=code&fontColor=00FF00&height=150&section=header&text=ROOT%20@%20DEVELOPER&fontSize=70&desc=Penetration%20Tester%20|%20Full%20Stack%20Developer&descSize=25&descAlignY=75" width="100%" alt="Header">
