@@ -1,4 +1,4 @@
-# ⚡ System.Initialize(User: "Vex")
+Hey 
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/render?type=code&fontColor=a200ff&height=150&section=header&text=VEX%20@%20CYBER_SPACE&fontSize=70&desc=The%20Art%20of%20Exploitation%20&%20Defense&descSize=25&descAlignY=75&bgColor=000000" width="100%" />
@@ -47,7 +47,7 @@ I thrive in the CLI, relying on <b>Linux</b> environments and <b>Python</b> auto
 
 ---
 
-### 🛡️ Cyber Arsenal & Tech Stack
+### 🛡️Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,js,bash,kali,linux,git,docker,postman,powershell,discord,vscode,instagram&perline=12" alt="Skills Stack">
