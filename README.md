@@ -53,7 +53,8 @@ Where logic breaks, I begin.
 <img width="700" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3NxbGx2NGp0eW9iNmlydTJzN2o4cWh0djl2OWV5aWV3eGN3M2s4aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l378c04F2fjeZ7vH2/giphy.gif">
 </p>---
 Where logic breaks, I begin.
-   ---
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=8B0000&height=3">
+
 <!-- Activity Graph --><p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=etsubgezhagne-tech&theme=github-dark"/>
 </p>---
