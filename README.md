@@ -35,7 +35,8 @@ Red Team Fundamentals
 Capture The Flag Challenges
 Vulnerability Research
 TryHackMe Labs
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=8B0000">
+
 <!-- Matrix Style Animation --><p align="center">
 <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake-dark.svg"/>
 </p>---
