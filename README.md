@@ -68,7 +68,7 @@ Where logic breaks, I begin.
 │ TARGET    : Security Research               │
 └─────────────────────────────────────────────┘
 
----
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 
 <!-- Moving Line --><img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=8B0000&height=3&section=footer"/><!-- Visitor Counter --><p align="center">
 <img src="https://komarev.com/ghpvc/?username=etsubgezhagne-tech&label=Visitors&color=8B0000&style=for-the-badge"/>
