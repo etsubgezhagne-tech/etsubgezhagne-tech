@@ -1,3 +1,5 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=8B0000">
+
 <h1 align="center">
 <span style="color:#8B0000;">ETSUB</span> GEZHAGNE
 </h1><p align="center">
