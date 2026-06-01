@@ -16,7 +16,6 @@ I am a student and technology enthusiast from Ethiopia with a strong interest in
 My primary focus is understanding how systems work internally, identifying weaknesses, and developing secure and efficient solutions. I spend most of my time studying Linux, networking, web technologies, and penetration testing methodologies while continuously improving my programming and problem-solving skills.
 I actively practice on TryHackMe, participate in Capture The Flag challenges, and build personal projects that combine software engineering with cybersecurity concepts.
 My goal is to become a highly skilled cybersecurity professional capable of operating across both development and security domains, with particular interest in Red Team operations, Web Application Security, Network Security, and Full Stack Development.
-
 ---
 <!-- Large Tech Banner --><p align="center">
 <img src="https://skillicons.dev/icons?i=python,flask,javascript,html,css,linux,bash,git,github,mysql,vscode&perline=6" />
@@ -37,11 +36,20 @@ TryHackMe Labs
 <!-- Matrix Style Animation --><p align="center">
 <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake-dark.svg"/>
 </p>---
+Current Mission:
+Build secure and scalable applications
+Master Red Team methodologies
+Advance in Web Security and Network Security
+Contribute to meaningful technical projects
+Continuously learn and improve
+Where logic breaks, I begin.
+---
 
 <!-- Hacker GIF --><p align="center">
 <img width="700" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3NxbGx2NGp0eW9iNmlydTJzN2o4cWh0djl2OWV5aWV3eGN3M2s4aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l378c04F2fjeZ7vH2/giphy.gif">
 </p>---
-
+Where logic breaks, I begin.
+   ---
 <!-- Activity Graph --><p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=etsubgezhagne-tech&theme=github-dark"/>
 </p>---
