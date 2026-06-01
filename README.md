@@ -57,7 +57,8 @@ Where logic breaks, I begin.
 
 <!-- Activity Graph --><p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=etsubgezhagne-tech&theme=github-dark"/>
-</p>---
+</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=8B0000&height=3">
 
 <!-- Cyber Terminal -->┌─────────────────────────────────────────────┐
 │ USER      : Etsub Gezhagne                  │
