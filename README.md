@@ -11,6 +11,11 @@
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>---
+I am a student and technology enthusiast from Ethiopia with a strong interest in cybersecurity, software development, and offensive security research.
+My primary focus is understanding how systems work internally, identifying weaknesses, and developing secure and efficient solutions. I spend most of my time studying Linux, networking, web technologies, and penetration testing methodologies while continuously improving my programming and problem-solving skills.
+I actively practice on TryHackMe, participate in Capture The Flag challenges, and build personal projects that combine software engineering with cybersecurity concepts.
+My goal is to become a highly skilled cybersecurity professional capable of operating across both development and security domains, with particular interest in Red Team operations, Web Application Security, Network Security, and Full Stack Development.
+
 
 <!-- Large Tech Banner --><p align="center">
 <img src="https://skillicons.dev/icons?i=python,flask,javascript,html,css,linux,bash,git,github,mysql,vscode&perline=6" />
