@@ -78,3 +78,4 @@ Where logic breaks, I begin.
 <!-- Moving Line --><img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=8B0000&height=3&section=footer"/><!-- Visitor Counter --><p align="center">
 <img src="https://komarev.com/ghpvc/?username=etsubgezhagne-tech&label=Visitors&color=8B0000&style=for-the-badge"/>
 </p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=8B0000">
