@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/type=waving&color=ea4335&height=220&section=header&text=Hey,%20I%20am%20Etsub&fontSize=45&animation=fadeIn&theme=neutral" width="100%" alt="Header Banner" />
+<img src="https://capsule-render.vercel.app/type=typing&color=ea4335&height=220&section=header&text=Hey,+I+am+Etsub&fontSize=45&animation=fadeIn&theme=neutral" width="100%" alt="Header Banner" />
 
 <br />
 
@@ -12,7 +12,7 @@
 
 <a href="mailto:YOUR_EMAIL_HERE"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Contact" /></a>
 <a href="YOUR_LINKEDIN_URL_HERE"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" /></a>
-<a href="YOUR_TELEGRAM_URL_HERE"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Channel" /></a>
+<a href="YOUR_TELEGRAM_URL_HERE"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Profile" /></a>
 <a href="YOUR_GITHUB_URL_HERE"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" /></a>
 
 ---
@@ -29,15 +29,21 @@ In tandem with core software engineering, I am deeply immersed in advanced cyber
 
 ## Technical Core Competencies
 
-### Full-Stack Engineering
-* **Frontend Architecture:** Proficient in designing responsive, optimized, and modern web interfaces using structural semantic HTML5, CSS3 layout engines, and asynchronous ES6+ JavaScript frameworks.
-* **Backend Development & Data Modeling:** Skilled in building modular server environments, managing microservices, deploying RESTful APIs, and optimizing structured relational (SQL) and non-relational (NoSQL) database schemas.
-* **Version Control & CI/CD:** Extensive experience tracking complex codebases, coordinating deployments, and managing version control via Git and collaborative GitHub workflows.
+### Frontend Development
+* **Languages & Core:** HTML5, CSS3, JavaScript (ES6+)
+* **Frameworks & Libraries:** React.js
 
-### Cybersecurity & Network Infrastructure
-* **Advanced Network Enumeration:** Practical expertise utilizing diagnostic suites like Nmap to audit enterprise network topologies, discover active services, and map system infrastructures.
-* **Firewall & IDS Evasion Analysis:** Investigating network packet behaviors, manipulating source ports, and auditing stateful/stateless filtering rules to evaluate network defense resilience.
-* **Linux Systems Administration:** Deep operational fluency within Unix/Linux environments, specifically Utilizing command-line automation and auditing tools via distributions like Kali Linux.
+### Backend Development & Databases
+* **Server-Side Environments:** Node.js, Python
+* **Web Frameworks:** Flask
+* **Database Management:** SQL & NoSQL Architecture
+
+### Cybersecurity & Infrastructure
+* **Operating Systems:** Kali Linux
+* **Network Auditing & Enumeration:** Nmap (Advanced Port Scanning & Firewall Evasion)
+
+### DevOps & Tools
+* **Version Control:** Git, GitHub
 
 ---
 
@@ -60,4 +66,3 @@ In tandem with core software engineering, I am deeply immersed in advanced cyber
 <img src="https://capsule-render.vercel.app/type=waving&color=ea4335&height=120&section=footer" width="100%" alt="Footer Wave" />
 
 </div>
-
