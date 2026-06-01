@@ -1,72 +1,63 @@
-Hey 
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=code&fontColor=a200ff&height=150&section=header&text=VEX%20@%20CYBER_SPACE&fontSize=70&desc=The%20Art%20of%20Exploitation%20&%20Defense&descSize=25&descAlignY=75&bgColor=000000" width="100%" />
-</p>
+<img src="https://capsule-render.vercel.app/type=waving&color=ea4335&height=220&section=header&text=Hey,%20I%20am%20Etsub&fontSize=45&animation=fadeIn&theme=neutral" width="100%" alt="Header Banner" />
 
----
+<br />
 
-<table align="center" border="0">
-  <tr>
-    <td width="150">
-      <img src="my-logo.png" width="150" style="border-radius: 20px; border: 3px solid #a200ff;"/>
-    </td>
-    <td>
-      <h1 align="left">
-        <img src="https://raw.githubusercontent.com/Martin005/Martin005/master/svg/revolving-star.gif" width="30"> 
-        <span style="color: #a200ff;">VEX</span>
-      </h1>
-      <p><b>Cybersecurity Analyst | Full-Stack Developer | Red Teamer</b></p>
-      <code>"Where logic breaks, I begin."</code>
-    </td>
-  </tr>
-</table>
+<img src="my-logo.png" width="130" alt="Etsub Portfolio Logo" onerror="this.style.display='none'"/>
+
+# Full-Stack Software Engineer & Cybersecurity Researcher
 
 ---
 
-### 📊 System Metrics & Performance
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=etsubgezhagne-tech&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=etsubgezhagne-tech&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<a href="mailto:YOUR_EMAIL_HERE"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Contact" /></a>
+<a href="YOUR_LINKEDIN_URL_HERE"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" /></a>
+<a href="YOUR_TELEGRAM_URL_HERE"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Channel" /></a>
+<a href="YOUR_GITHUB_URL_HERE"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" /></a>
 
 ---
 
-### 🔍 // about_me.txt
+</div>
 
-<p align="left">
-Welcome to my secure perimeter. I am <b>Vex</b>, a dedicated tech enthusiast specializing in the intricate world of <b>Cybersecurity</b> and <b>Software Engineering</b>. My expertise lies in identifying vulnerabilities, architecting secure environments, and bridging the gap between high-level development and impenetrable security protocols.
+## Executive Summary
 
-I thrive in the CLI, relying on <b>Linux</b> environments and <b>Python</b> automation to streamline complex operations. Whether it's penetration testing, network security, or building scalable applications, I approach every challenge with a hacker's mindset and a professional's precision.
+I am a results-driven Full-Stack Developer dedicated to engineering robust, scalable, and highly secure digital solutions. My expertise spans the entire software development lifecycle, specializing in architectures that seamlessly bridge intuitive user experiences with high-performance server logic. 
 
-* 🔭 **Active Research:** Advanced Pentesting & Social Engineering.
-* 🛡️ **Expertise:** Network Security, Secure Coding, & Mobile Forensics.
-* 🌱 **Current Lab:** Exploring AI-driven threat detection systems.
-</p>
+In tandem with core software engineering, I am deeply immersed in advanced cybersecurity methodologies. My focus centers on understanding infrastructural threat vectors, network architecture diagnostics, and secure coding practices. This intersection of full-stack engineering and defensive security allows me to architect applications with a security-first paradigm, mitigating vulnerabilities prior to deployment.
 
 ---
 
-### 🛡️Tech Stack
+## Technical Core Competencies
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,bash,kali,linux,git,docker,postman,powershell,discord,vscode,instagram&perline=12" alt="Skills Stack">
-</p>
+### Full-Stack Engineering
+* **Frontend Architecture:** Proficient in designing responsive, optimized, and modern web interfaces using structural semantic HTML5, CSS3 layout engines, and asynchronous ES6+ JavaScript frameworks.
+* **Backend Development & Data Modeling:** Skilled in building modular server environments, managing microservices, deploying RESTful APIs, and optimizing structured relational (SQL) and non-relational (NoSQL) database schemas.
+* **Version Control & CI/CD:** Extensive experience tracking complex codebases, coordinating deployments, and managing version control via Git and collaborative GitHub workflows.
+
+### Cybersecurity & Network Infrastructure
+* **Advanced Network Enumeration:** Practical expertise utilizing diagnostic suites like Nmap to audit enterprise network topologies, discover active services, and map system infrastructures.
+* **Firewall & IDS Evasion Analysis:** Investigating network packet behaviors, manipulating source ports, and auditing stateful/stateless filtering rules to evaluate network defense resilience.
+* **Linux Systems Administration:** Deep operational fluency within Unix/Linux environments, specifically Utilizing command-line automation and auditing tools via distributions like Kali Linux.
 
 ---
 
-### 🌐 Secure Connection Points
+## Current Objectives & Research Interests
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/etsub-gezhagne"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://t.me/Vex_hunter404"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="https://www.instagram.com/vex_hunter404"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="mailto:etsubgezhagne@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+* Investigating offensive and defensive network security frameworks via simulated environments on the Hack The Box Academy platform.
+* Implementation of secure development lifecycles (DevSecOps) to automate security auditing inside the continuous integration pipeline.
+* Scalable infrastructure engineering utilizing modern containerization and serverless backends.
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=100&section=footer"/>
+
+### Metrics & Contribution Diagnostics
+
+<br />
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="Etsub's GitHub Statistics Engine" />
+<br /><br />
+
+<img src="https://capsule-render.vercel.app/type=waving&color=ea4335&height=120&section=footer" width="100%" alt="Footer Wave" />
+
 </div>
 
