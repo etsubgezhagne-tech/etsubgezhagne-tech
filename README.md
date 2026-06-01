@@ -1,17 +1,18 @@
-<!-- Animated Typing Banner --><p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=8B0000&center=true&vCenter=true&width=900&lines=Cybersecurity+Researcher;Red+Team+Learner;Full+Stack+Developer;Python+%7C+Flask+%7C+JavaScript;TryHackMe+%7C+CTF+Player;Linux+Enthusiast" />
-</p><!-- Animated Divider --><img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"><!-- Social Icons --><h2 align="center">Connect</h2><p align="center">
+<h1 align="center">ETSUB GEZHAGNE</h1><p align="center">
+Cybersecurity • Red Teaming • Full Stack Development
+</p><p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&duration=3000&pause=1000&color=8B0000&center=true&vCenter=true&width=1200&height=100&lines=Hey%2C+I'm+Etsub;Cybersecurity+Researcher;Red+Team+Learner;Full+Stack+Developer;Python+%7C+Flask+%7C+JavaScript;TryHackMe+%7C+CTF+Player;Linux+Enthusiast" />
+</p><img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"><p align="center">
 <a href="https://t.me/Vex_hunter404">
 <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a><a href="https://www.instagram.com/vex_hunter404">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a><a href="https://www.linkedin.com/in/etsub-gezhagne">
+</a><a href="https://www.linkedin.com">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a><a href="mailto:etsubgezhagne@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a><a href="https://github.com/etsubgezhagne-tech">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-</p>
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
+</p><img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 I am a student and technology enthusiast from Ethiopia with a strong interest in cybersecurity, software development, and offensive security research.
 My primary focus is understanding how systems work internally, identifying weaknesses, and developing secure and efficient solutions. I spend most of my time studying Linux, networking, web technologies, and penetration testing methodologies while continuously improving my programming and problem-solving skills.
 I actively practice on TryHackMe, participate in Capture The Flag challenges, and build personal projects that combine software engineering with cybersecurity concepts.
