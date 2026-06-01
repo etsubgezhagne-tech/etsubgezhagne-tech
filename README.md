@@ -1,16 +1,18 @@
-<h1 align="center">ETSUB GEZHAGNE</h1><p align="center">
-Cybersecurity • Red Teaming • Full Stack Development
+<h1 align="center">
+<span style="color:#8B0000;">ETSUB</span> GEZHAGNE
+</h1><p align="center">
+<b>Cybersecurity • Red Teaming • Full Stack Development</b>
 </p><p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&duration=3000&pause=1000&color=8B0000&center=true&vCenter=true&width=1200&height=100&lines=Hey%2C+I'm+Etsub;Cybersecurity+Researcher;Red+Team+Learner;Full+Stack+Developer;Python+%7C+Flask+%7C+JavaScript;TryHackMe+%7C+CTF+Player;Linux+Enthusiast" />
-</p><img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"><p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&duration=3000&pause=1000&color=DC143C&center=true&vCenter=true&width=1200&height=100&lines=Hey%2C+I'm+Etsub;Cybersecurity+Researcher;Red+Team+Learner;Full+Stack+Developer;Python+%7C+Flask+%7C+JavaScript;TryHackMe+%7C+CTF+Player;Linux+Enthusiast" />
+</p><p align="center">
 <a href="https://t.me/Vex_hunter404">
-<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="45" />
 </a><a href="https://www.instagram.com/vex_hunter404">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a><a href="https://www.linkedin.com">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="45" />
 </a><a href="https://github.com/etsubgezhagne-tech">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" />
+</a><a href="https://www.linkedin.com">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45" />
 </a>
 </p><img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 I am a student and technology enthusiast from Ethiopia with a strong interest in cybersecurity, software development, and offensive security research.
