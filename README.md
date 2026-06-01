@@ -47,7 +47,7 @@ Advance in Web Security and Network Security
 Contribute to meaningful technical projects
 Continuously learn and improve
 Where logic breaks, I begin.
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=8B0000&height=3">
 
 <!-- Hacker GIF --><p align="center">
 <img width="700" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3NxbGx2NGp0eW9iNmlydTJzN2o4cWh0djl2OWV5aWV3eGN3M2s4aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l378c04F2fjeZ7vH2/giphy.gif">
