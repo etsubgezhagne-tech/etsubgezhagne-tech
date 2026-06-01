@@ -1,4 +1,4 @@
-<div align="center">
+div align="center">
 
 <img src="https://capsule-render.vercel.app/type=typing&color=ea4335&height=220&section=header&text=Hey,+I+am+Etsub&fontSize=45&animation=fadeIn&theme=neutral" width="100%" alt="Header Banner" />
 
