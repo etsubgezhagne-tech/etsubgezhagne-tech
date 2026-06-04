@@ -17,6 +17,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45" />
 </a>
 </p><img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
+
 I am a student and technology enthusiast from Ethiopia with a strong interest in cybersecurity, software development, and offensive security research.
 My primary focus is understanding how systems work internally, identifying weaknesses, and developing secure and efficient solutions. I spend most of my time studying Linux, networking, web technologies, and penetration testing methodologies while continuously improving my programming and problem-solving skills.
 I actively practice on TryHackMe, participate in Capture The Flag challenges, and build personal projects that combine software engineering with cybersecurity concepts.
